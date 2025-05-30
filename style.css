@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFF9C5;
+}
+
+header{
+    border-radius: 10px;
+    background-color: #BDB76B;
+    height: 250px;
+}
+
+header h3{
+    text-align: center;
+}
+
+header img{
+    border: 10px solid #F0E68C;
+    border-radius: 50px;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+}
